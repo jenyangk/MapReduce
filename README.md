@@ -1,12 +1,4 @@
-# Assignment 2
-
-Information:
-
-Name: Koh Jen Yang
-
-CCID: jenyang
-
-
+# MapReduce
 
 ## Intermediate Key-Value Pair Storage
 
